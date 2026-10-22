@@ -19,3 +19,8 @@
   a simple interface that helps users create passwords using different
   combinations of letters, numbers, and special characters.
 </p>
+
+<p>
+  This project was created to practice frontend web development and
+  understand JavaScript logic, functions, and interactive website design.
+</p>
