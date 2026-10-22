@@ -35,3 +35,4 @@
   <li>🔣 Special character support.</li>
 <li>📏 Customizable password length.</li>
  <li>📋 Copy password to clipboard.</li>
+  <li>⚡ Fast and easy password generation.</li>
