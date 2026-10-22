@@ -32,3 +32,5 @@
   <li>🔠 Uppercase letter support.</li>
   <li>🔡 Lowercase letter support.</li>
   <li>🔢 Number support.</li>
+  <li>🔣 Special character support.</li>
+
