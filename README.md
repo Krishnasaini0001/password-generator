@@ -33,4 +33,4 @@
   <li>🔡 Lowercase letter support.</li>
   <li>🔢 Number support.</li>
   <li>🔣 Special character support.</li>
-
+<li>📏 Customizable password length.</li>
