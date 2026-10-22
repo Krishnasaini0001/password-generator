@@ -12,3 +12,10 @@
 
 <hr>
 <h2>📌 About The Project</h2>
+
+<p>
+  The <b>Password Generator Website</b> is a web-based application
+  designed to generate random passwords quickly and easily. It provides
+  a simple interface that helps users create passwords using different
+  combinations of letters, numbers, and special characters.
+</p>
