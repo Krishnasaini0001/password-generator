@@ -36,3 +36,4 @@
 <li>📏 Customizable password length.</li>
  <li>📋 Copy password to clipboard.</li>
   <li>⚡ Fast and easy password generation.</li>
+  <li>🎨 Simple and attractive user interface.</li>
