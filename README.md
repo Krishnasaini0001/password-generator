@@ -26,3 +26,6 @@
 </p>
 
 <h2>✨ Features</h2>
+
+<ul>
+  <li>🔐 Generate random passwords.</li>
