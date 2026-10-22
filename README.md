@@ -37,3 +37,5 @@
  <li>📋 Copy password to clipboard.</li>
   <li>⚡ Fast and easy password generation.</li>
   <li>🎨 Simple and attractive user interface.</li>
+<li>📱 Responsive design, if implemented.</li>
+</ul>
