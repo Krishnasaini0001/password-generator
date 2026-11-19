@@ -46,3 +46,7 @@
     <th>Technology</th>
     <th>Purpose</th>
   </tr>
+  <tr>
+    <td>HTML5</td>
+    <td>Creates the structure of the website.</td>
+  </tr>
