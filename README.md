@@ -78,3 +78,4 @@ Password-Generator/
 <pre>
 git clone https://github.com/Krishnasaini0001/password-generator
 </pre>
+<h3>Step 2: Open the Project Folder</h3>
