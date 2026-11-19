@@ -97,3 +97,4 @@ cd Password-Generator
   <li>View your newly generated password.</li>
   <li>Copy the password using the Copy button, if available.</li>
 </ol>
+<h2>📸 Screenshots</h2>
