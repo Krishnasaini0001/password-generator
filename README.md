@@ -54,3 +54,7 @@
     <td>CSS3</td>
     <td>Provides styling, colors, and layout.</td>
   </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>Handles password generation and interactions.</td>
+  </tr>
