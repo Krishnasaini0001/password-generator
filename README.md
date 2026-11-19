@@ -58,3 +58,7 @@
     <td>JavaScript</td>
     <td>Handles password generation and interactions.</td>
   </tr>
+  <tr>
+    <td>Git & GitHub</td>
+    <td>Version control and project hosting.</td>
+  </tr>
