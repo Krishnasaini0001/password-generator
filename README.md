@@ -50,3 +50,7 @@
     <td>HTML5</td>
     <td>Creates the structure of the website.</td>
   </tr>
+  <tr>
+    <td>CSS3</td>
+    <td>Provides styling, colors, and layout.</td>
+  </tr>
