@@ -98,3 +98,6 @@ cd Password-Generator
   <li>Copy the password using the Copy button, if available.</li>
 </ol>
 <h2>📸 Screenshots</h2>
+<p align="center">
+  <i>Add your website screenshots below.</i>
+</p>
