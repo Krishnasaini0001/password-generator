@@ -75,3 +75,6 @@ Password-Generator/
 </pre>
 <h2>🚀 Installation & Setup</h2>
 <h3>Step 1: Clone the Repository</h3>
+<pre>
+git clone YOUR_GITHUB_REPOSITORY_URL
+</pre>
