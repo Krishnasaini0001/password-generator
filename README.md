@@ -88,3 +88,4 @@ cd Password-Generator
   A basic HTML, CSS, and JavaScript project does not require any
   additional installation.
 </p>
+<h2>💻 How to Use</h2>
