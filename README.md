@@ -73,4 +73,4 @@ Password-Generator/
 ├── script.js
 └── README.md
 </pre>
-
+<h2>🚀 Installation & Setup</h2>
