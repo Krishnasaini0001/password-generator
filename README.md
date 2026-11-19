@@ -39,3 +39,10 @@
   <li>🎨 Simple and attractive user interface.</li>
 <li>📱 Responsive design, if implemented.</li>
 </ul>
+
+<h2>🛠️ Technologies Used</h2>
+<table>
+  <tr>
+    <th>Technology</th>
+    <th>Purpose</th>
+  </tr>
