@@ -89,3 +89,11 @@ cd Password-Generator
   additional installation.
 </p>
 <h2>💻 How to Use</h2>
+<ol>
+  <li>Open the Password Generator Website.</li>
+  <li>Select the desired password length.</li>
+  <li>Choose character options, if available.</li>
+  <li>Click the Generate Password button.</li>
+  <li>View your newly generated password.</li>
+  <li>Copy the password using the Copy button, if available.</li>
+</ol>
