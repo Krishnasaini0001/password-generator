@@ -74,3 +74,4 @@ Password-Generator/
 └── README.md
 </pre>
 <h2>🚀 Installation & Setup</h2>
+<h3>Step 1: Clone the Repository</h3>
