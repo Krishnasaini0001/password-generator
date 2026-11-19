@@ -83,4 +83,8 @@ git clone https://github.com/Krishnasaini0001/password-generator
 cd Password-Generator
 </pre>
 <h3>Step 3: Run the Website</h3>
-
+<p>
+  Open the <code>index.html</code> file in your web browser.
+  A basic HTML, CSS, and JavaScript project does not require any
+  additional installation.
+</p>
