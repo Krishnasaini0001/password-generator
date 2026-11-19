@@ -64,3 +64,13 @@
   </tr>
 </table>
 <h2>📂 Project Structure</h2>
+
+<pre>
+Password-Generator/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+</pre>
+
