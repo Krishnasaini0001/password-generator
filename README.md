@@ -62,3 +62,4 @@
     <td>Git & GitHub</td>
     <td>Version control and project hosting.</td>
   </tr>
+</table>
