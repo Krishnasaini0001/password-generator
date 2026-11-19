@@ -102,3 +102,5 @@ cd Password-Generator
   <img src="screenshots/home-page.png"
        alt="Password Generator Homepage"
        width="700">
+</p>
+<h2>🎯 Project Objectives</h2>
