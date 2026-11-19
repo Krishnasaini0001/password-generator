@@ -82,3 +82,5 @@ git clone https://github.com/Krishnasaini0001/password-generator
 <pre>
 cd Password-Generator
 </pre>
+<h3>Step 3: Run the Website</h3>
+
