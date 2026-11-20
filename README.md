@@ -108,4 +108,5 @@ cd Password-Generator
 <ul>
   <li>Learn HTML, CSS, and JavaScript.</li>
   <li>Understand random password generation.</li>
+  <li>Practice DOM manipulation.</li>
 
