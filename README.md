@@ -112,3 +112,5 @@ cd Password-Generator
   <li>Learn JavaScript event handling.</li>
   <li>Build an interactive web application.</li>
   <li>Improve frontend development skills.</li>
+  <li>Create a project for a developer portfolio.</li>
+</ul>
