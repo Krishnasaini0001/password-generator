@@ -116,3 +116,9 @@ cd Password-Generator
 </ul>
 
 <h2>🔒 Security Note</h2>
+<p>
+  Always use unique passwords for different accounts. For security-sensitive
+  use cases, password generation should rely on a cryptographically secure
+  random number generator, such as the Web Crypto API. Avoid storing or
+  sharing passwords insecurely.
+</p>
