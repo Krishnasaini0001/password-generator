@@ -110,4 +110,4 @@ cd Password-Generator
   <li>Understand random password generation.</li>
   <li>Practice DOM manipulation.</li>
   <li>Learn JavaScript event handling.</li>
-
+  <li>Build an interactive web application.</li>
