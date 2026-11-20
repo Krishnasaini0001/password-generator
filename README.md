@@ -122,3 +122,5 @@ cd Password-Generator
   random number generator, such as the Web Crypto API. Avoid storing or
   sharing passwords insecurely.
 </p>
+
+<h2>🔮 Future Improvements</h2>
