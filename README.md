@@ -111,3 +111,4 @@ cd Password-Generator
   <li>Practice DOM manipulation.</li>
   <li>Learn JavaScript event handling.</li>
   <li>Build an interactive web application.</li>
+  <li>Improve frontend development skills.</li>
