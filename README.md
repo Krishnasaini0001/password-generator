@@ -104,3 +104,6 @@ cd Password-Generator
        width="700">
 </p>
 <h2>🎯 Project Objectives</h2>
+
+<ul>
+  <li>Learn HTML, CSS, and JavaScript.</li>
